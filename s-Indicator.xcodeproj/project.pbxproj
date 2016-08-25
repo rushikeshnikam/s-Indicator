@@ -276,6 +276,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "com.bits.dev.s-Indicator";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "ac92afd2-85b2-4d2e-aa23-be4191a8e3ce";
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
@@ -290,6 +291,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "com.bits.dev.s-Indicator";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "ac92afd2-85b2-4d2e-aa23-be4191a8e3ce";
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
